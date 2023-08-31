@@ -56,7 +56,7 @@
   <a href="mailto:yogeshn2427@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>&nbsp;
-  <a href="https://wa.link/ifz3z8">
+  <a href="https://wa.link/7yt6ov">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Whatsapp Badge" />
   </a>
   
