@@ -6,7 +6,7 @@
 - Coffee, photography, music and art are my happy places〽️
 - I enjoy bringing a static design or idea to life and learning new technologies.
 - Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
-- Pursuing B.Tech Information Technology🧑‍🎓(present)
+- Pursuing B.Tech Information Technology(present)
 
 <br>
 
