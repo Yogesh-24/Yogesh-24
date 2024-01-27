@@ -2,7 +2,7 @@
 
 ![header](https://i.ibb.co/f1xtSfW/cover-image.png)
 
-### A few things about me
+<h3 align="center">A few things about me!</h3>
 
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.🎯
 - Coffee, photography, music and art are my happy places〽️
