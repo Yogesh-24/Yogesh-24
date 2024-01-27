@@ -1,6 +1,5 @@
-![header](https://i.ibb.co/f1xtSfW/cover-image.png)
 # Hey there :wave:, I'm Yogesh, it's a pleasure to meet you!
-
+![header](https://i.ibb.co/f1xtSfW/cover-image.png)
 
 ### A few things about me
 
