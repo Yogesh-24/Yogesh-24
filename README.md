@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm Yogesh - An Aspiring IT Professional</h3>
+<h3 align="center">Hello👋 I'm Yogesh - An Aspiring IT Professional</h3>
 
 ![header](https://i.ibb.co/f1xtSfW/cover-image.png)
 
