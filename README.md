@@ -1,4 +1,4 @@
-# Hey there :wave:, I'm Yogesh, it's a pleasure to meet you!
+<h3 align="center">Hello, I'm Yogesh - An Aspiring IT Professional</h3>
 ![header](https://i.ibb.co/f1xtSfW/cover-image.png)
 
 ### A few things about me
