@@ -61,7 +61,7 @@
   <a href="https://wa.link/7yt6ov">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Whatsapp Badge" />
   </a>&nbsp;
-  <a href="https://linktr.ee/yogesh2427">
+  <a href="https://linktr.ee/__yogesh">
   <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linnktree Badge" />
   </a>
   
