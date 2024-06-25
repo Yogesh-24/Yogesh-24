@@ -4,11 +4,10 @@
 
 <h3 align="center">A few things about me!</h3>
 
-- I am frontend web developer doing all things creative to make the web a more unique and awesome place.🎯
+- I am an Aspiring Full Stack Web Developer doing all things creative to make the web a more unique and awesome place.🎯
 - Coffee, photography, music and art are my happy places〽️
 - I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
-- Pursuing B.Tech Information Technology(present)
+- Pursuing B.Tech in Information Technology(present)
 
 <br>
 
@@ -18,7 +17,7 @@
 
 <div align="center">
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <!-- Java icon added -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,7 +36,8 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/j2ee/j2ee-original.svg" title="Java EE" alt="Java EE" width="40" height="40"/>&nbsp; 
   </div>
 
 ---
